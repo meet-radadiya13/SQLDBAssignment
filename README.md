@@ -37,7 +37,6 @@ CONSTRAINT fk_employeeinfo<br>
 );<br>
 
 #### Output of above table will be
-
-
+![Employee Position Table]()
 
 
